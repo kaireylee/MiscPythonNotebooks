@@ -1,2 +1,2 @@
 # MiscPythonNotebooks
-Assortment of jupyter notebooks that don't have a full purpose or are just coded up for fun
+Assortment of jupyter notebooks that aren't fully fleshed out or are just coded up for fun
